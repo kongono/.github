@@ -4,6 +4,7 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/17130/badge)](https://www.bestpractices.dev/projects/17130)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/SXWjgBGwrZ)
+[![Reddit](https://img.shields.io/badge/Reddit-r%2Fkongono-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/r/kongono)
 [![License MIT](https://img.shields.io/badge/License-MIT-0284c7)](https://github.com/kongono/framework/blob/main/LICENSE)
 
 ---
@@ -29,5 +30,5 @@ php vendor/bin/kongo serve
 ### Security & Community
 
 - **Documentation & LLM Index:** [kongono.com/docs](https://kongono.com/docs) · [kongono.com/llms.txt](https://kongono.com/llms.txt)
-- **Community:** [Discord](https://discord.gg/SXWjgBGwrZ) · [GitHub Discussions](https://github.com/kongono/framework/discussions)
+- **Community:** [Discord](https://discord.gg/SXWjgBGwrZ) · [Reddit (`r/kongono`)](https://www.reddit.com/r/kongono) · [GitHub Discussions](https://github.com/kongono/framework/discussions)
 - **Security Policy:** [SECURITY.md](https://github.com/kongono/framework/blob/main/SECURITY.md) (private reporting via GitHub Security Advisories, SLSA Build Provenance, CycloneDX 1.5 SBOM)
